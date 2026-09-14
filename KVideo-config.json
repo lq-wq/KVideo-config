@@ -404,5 +404,19 @@
     "baseUrl": "https://aosikazy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true
+  },
+  {
+    "id": "xibao",
+    "name": "🔞-细胞网资源-",
+    "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  },
+  {
+    "id": "souav",
+    "name": "🔞-搜AV资源-",
+    "baseUrl": "https://api.souavzyw.net/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
   }
 ]
